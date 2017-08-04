@@ -1,4 +1,4 @@
-FROM multiarch/alpine:x86_64-latest-stable
+FROM multiarch/alpine:armhf-latest-stable
 
 MAINTAINER Mickaël Cornière <mickael.corniere@gmail.com>
 
